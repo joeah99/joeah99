@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Holy
 - 👀 I’m interested in software development & data science
-- 🌱 I’m currently learning computer science @ UNL
+- 🌱 I’m currently learning computer science & mathematics @ UNL
 - 📫 personal: joeah99@gmail.com | school: jholy2@unl.edu
 
 <!---
